@@ -1,4 +1,3 @@
-- 📫 How many codes must a man write to become a coder
 - A continous learning backend developer
 
 <!---
