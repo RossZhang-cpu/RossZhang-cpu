@@ -1,4 +1,4 @@
-- A continous learning backend developer
+- A continous learning developer...
 
 <!---
 RossZhang-cpu/RossZhang-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
